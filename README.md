@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there, I'm Daniel Enakpodia 👋
+
+- 🎓 Incoming Software Engineering student at **AltSchool Africa** (December 2026 Cohort)
+- 🌱 Currently learning **Git, GitHub, and Web Development fundamentals**
+- 💻 Building projects and documenting my engineering journey here on GitHub
+- 📫 Reach me at: **danielenakpodia69@gmail.com**
+
 
 <!--
 **danielenakpodia/danielenakpodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
